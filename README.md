@@ -1,6 +1,6 @@
 # Demo: GCP API Gateway fronting an App Engine app secured with Identity-Aware Proxy
 
-This demo is based on the [official Google quickstart for API Gateway fronting an App Engine instance](https://cloud.google.com/api-gateway/docs/get-started-app-engine). Lovingly repurposed from Google <3 for the benefit of all.
+This demo is based on the [official Google quickstart for API Gateway fronting an App Engine instance](https://cloud.google.com/api-gateway/docs/get-started-app-engine). Lovingly repurposed from Google with <3 for the benefit of all.
 
 The example app is a Node-based web server (Fastify) that responds to the root `/` and `hello`. Hello will be used in the API specification (`api-spec.yaml`).
 
